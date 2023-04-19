@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500,600,700|Source+Sans+Pro:400,600,700&display=swap");
+
+.inicio {
+    background-image: url(./img/titulo2.jpg);
+    color:white; 
+    background-size: 800px;
+    background-position: center;
+    padding: 55px;
+}
+
+header {
+    background-color: black;
+    color: #fff; /* Color del texto */
+    padding: 30px; /* Espacio interno */
+  }
+  
+  /* Estilo para la navegación */
+  nav {
+    display: flex; /* Muestra los elementos en una línea */
+    justify-content: space-between; /* Distribuye los elementos de manera uniforme */
+    align-items: center; /* Centra verticalmente los elementos */
+  }
+  
+  /* Estilo para la lista de navegación */
+  ul {
+    list-style: none; /* Quita los puntos de la lista */
+    margin: 0; /* Quita el margen */
+    padding: 0; /* Quita el padding */
+  }
+  
+  
+  li {
+    margin: 0 10px; /* Margen entre los elementos */
+    display: inline-block;
+    font-size: 130%;
+    margin-right: 40px;
+  }
+  
+ 
+  a {
+    color: #fff; 
+    text-decoration: none; 
+  }
+
+  
